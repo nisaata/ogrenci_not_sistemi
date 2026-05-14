@@ -1,5 +1,6 @@
 # ogrenci_not_sistemi
 Python ile geliştirilmiş öğrenci not takip projesi.
+Öğrenci Not Takip Sistemi
 ogrenci-not-sistemi-
 Python ile gelişen öğrenci değil takip sistemi
 
